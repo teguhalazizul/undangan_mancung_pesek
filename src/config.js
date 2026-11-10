@@ -6,8 +6,8 @@ export const config = {
   // format: YYYY-MM-DDTHH:mm:ss+07:00
   date: '2026-12-20T09:00:00+07:00',
   events: [
-    { title: 'Akad Nikah', time: '09.00 WIB – selesai', place: 'Amber Karya', address: 'Alamat lengkap Amber Karya' },
-    { title: 'Resepsi', time: '11.00 – 14.00 WIB', place: 'Nama Tempat Resepsi', address: 'Alamat lengkap tempat resepsi' },
+    { title: 'Akad Nikah', time: '09.00 WIB – selesai', place: 'Amber Karya', address: 'Tunas Prima Karya Mandiri' },
+    { title: 'Resepsi', time: '11.00 – 14.00 WIB', place: 'Axton Hotel', address: 'Jalan Sudirman' },
   ],
   mapsUrl: 'https://maps.google.com', // ganti dengan link Google Maps Amber Karya
   whatsapp: '6281234567890', // nomor WA tanpa + dan 0 di depan
